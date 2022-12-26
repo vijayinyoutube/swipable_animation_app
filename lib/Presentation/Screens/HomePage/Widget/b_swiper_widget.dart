@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_swiper_view/flutter_swiper_view.dart';
-import 'package:swipable_animation_app/Presentation/Declarations/Constants/Images/image_files.dart';
-import 'package:swipable_animation_app/Presentation/Declarations/Constants/constants.dart';
+
+import '../../../Declarations/Constants/Images/image_files.dart';
+import '../../../Declarations/Constants/constants.dart';
 
 class SwiperBuilder extends StatelessWidget {
   const SwiperBuilder({
