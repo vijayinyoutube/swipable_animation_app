@@ -8,7 +8,7 @@ class RouteGenerator {
     switch (settings.name) {
       case '/':
         return MaterialPageRoute(
-            builder: (_) => const HomePage(title: 'Your Credit Cards'));
+            builder: (_) => const MyHomePage(title: 'Your Credit Cards'));
       default:
         return _errorRoute();
     }

@@ -9,7 +9,8 @@ AppBar buildAppBar({
 }) =>
     AppBar(
       title: Text(appBarTitle),
-      centerTitle: centerTitle ?? false,
+      centerTitle: centerTitle ?? true,
+      elevation: 0,
       backgroundColor: primaryColor,
       actions: actionWidgets ?? [],
     );
