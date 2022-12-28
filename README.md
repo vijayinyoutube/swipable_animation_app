@@ -89,7 +89,7 @@ SOFTWARE.
 ```
 
 
-<div aalign="center">
+<div align="center">
 
 ## Support
 
