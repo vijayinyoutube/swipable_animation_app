@@ -91,7 +91,7 @@ SOFTWARE.
 
 <div align="center">
 
-## Support
+## 💖 Support
 
 If you find this tutorial useful or learned something from this code, consider buying me a coffee ☕️ or show some ❤️ by starring this repo.
 
